@@ -1,0 +1,4 @@
+venv_dj_rest
+*.pyc
+*.sqlite3
+.idea
